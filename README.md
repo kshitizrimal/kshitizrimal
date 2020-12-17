@@ -10,4 +10,3 @@ I'm Kshitiz Rimal, Machine Learning/Deep Learning Developer.
 
 - [LinkedIn](https://www.linkedin.com/in/kshitiz-rimal/)
 - [Medium](https://medium.com/deep-learning-journals)
-- [Twitter](https://twitter.com/KshitizRimal)
