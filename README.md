@@ -1,16 +1,13 @@
-### Hi there 👋
+### Namaste 🙏
 
-<!--
-**kshitizrimal/kshitizrimal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Kshitiz Rimal, Machine Learning/Deep Learning Developer.
 
-Here are some ideas to get you started:
+- <img height="10" src="http://ainepal.org/wp-content/themes/aid_pre4/logo_web.png"> Head of Research at [Artificial Intelligence for Development](http://ainepal.org/).
+- <img height="20" src="https://developers.google.com/community/experts/images/google-developers-logo.svg"> Google Developers Expert in Machine Learning
+- <img height="20" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/26579239"> Certified TensorFlow Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## You can also find me in
+
+- [LinkedIn](https://www.linkedin.com/in/kshitiz-rimal/)
+- [Medium](https://medium.com/deep-learning-journals)
+- [Twitter] (https://twitter.com/KshitizRimal)
