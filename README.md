@@ -2,7 +2,7 @@
 
 I'm Kshitiz Rimal, Machine Learning/Deep Learning Developer.
 
-- <img height="25" style="padding:3px;" src="https://media-exp1.licdn.com/dms/image/C4E0BAQE2i6tjLn-3GQ/company-logo_200_200/0/1520567015921?e=1616025600&v=beta&t=1-6RiRrJpMf44KRfPRlN_1BlNRZMd4OzdIX6x_sW9do"> Head of Research at [Artificial Intelligence for Development](http://ainepal.org/).
+- <img height="25" style="padding:3px;" src="https://zeroheight.s3-eu-west-1.amazonaws.com/zeroheight-huddle/logos/sv/10772/logo.svg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJXTVUC4XZENV3LPQ%2F20210705%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20210705T082659Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=5f42932a63d797cb916a8ba9c088920605a1671f75c35c384fe53f6280c9ee4e"> Senior Data Scientist at [Brainly](http://brainly.com/).
 - <img height="15" style="padding:3px;" src="https://developers.google.com/community/experts/images/google-developers-logo.svg"> Google Developers Expert on Machine Learning
 - <img height="25" style="padding:3px;" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/26579239"> Certified TensorFlow Developer
 
