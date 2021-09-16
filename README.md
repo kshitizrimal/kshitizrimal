@@ -1,6 +1,6 @@
 ### Namaste 🙏
 
-I'm Kshitiz Rimal, Machine Learning/Deep Learning Developer.
+I'm Kshitiz Rimal, a traveler on a path to understand Artificial Intelligence.
 
 - <img height="25" style="padding:3px;" src="https://styleguide.brainly.com/images/logos/brainly-5c4a769505.svg"> Senior Data Scientist at [Brainly](http://brainly.com/).
 - <img height="15" style="padding:3px;" src="https://developers.google.com/community/experts/images/google-developers-logo.svg"> Google Developers Expert on Machine Learning
